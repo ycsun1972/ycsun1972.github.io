@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuchong Sun</title>
+    <link>https://ycsun1972.github.io/</link>
+      <atom:link href="https://ycsun1972.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuchong Sun</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ycsun1972.github.io/media/icon_hudea7c4c146ad041f1d003696d728774f_37437_512x512_fill_lanczos_center_3.png</url>
+      <title>Yuchong Sun</title>
+      <link>https://ycsun1972.github.io/</link>
+    </image>
+    
+    <item>
+      <title>CLIP-ViP: Adapting Pre-trained Image-Text Model to Video-Language Representation Alignment</title>
+      <link>https://ycsun1972.github.io/publication/clip-vip/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://ycsun1972.github.io/publication/clip-vip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-Form Video-Language Pre-Training with Multimodal Temporal Contrastive Learning</title>
+      <link>https://ycsun1972.github.io/publication/lfvila/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://ycsun1972.github.io/publication/lfvila/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Translating Text Synopses to Video Storyboards</title>
+      <link>https://ycsun1972.github.io/preprint/tevis/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://ycsun1972.github.io/preprint/tevis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advancing High-Resolution Video-Language Representation with Large-Scale Video Transcriptions</title>
+      <link>https://ycsun1972.github.io/publication/hdvila/</link>
+      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://ycsun1972.github.io/publication/hdvila/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
